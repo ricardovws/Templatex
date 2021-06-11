@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "34GUJ8fAbe0dwOmbzkJQipVUVkeoWjqPrE/s5VJlvM5oWpdSJUGhDgDkjKE2sfsOq+C4U6pZD7shBUv2tc5PHw==",
+  "dgSpecHash": "DWs+ewAIAAh/4vGbG1Lkc2EQ89jwpwiqAhmLbQ2IJroXqve4+XwX57tUpzT7tg/ek0S1QtO6VB5yb8QhEVFSog==",
   "success": true,
   "projectFilePath": "C:\\Users\\santo\\source\\repos\\Templatex\\Api.Identity\\Api.Identity.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\santo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\santo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.6\\microsoft.aspnetcore.authentication.jwtbearer.5.0.6.nupkg.sha512",
     "C:\\Users\\santo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.6\\microsoft.aspnetcore.cryptography.internal.5.0.6.nupkg.sha512",

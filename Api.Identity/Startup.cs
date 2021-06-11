@@ -1,3 +1,4 @@
+using Api.Identity.Config;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using NetDevPack.Identity;
 using NetDevPack.Identity.Jwt;
+using NetDevPack.Identity.User;
 
 namespace Api.Identity
 {
@@ -33,16 +35,9 @@ namespace Api.Identity
 
             services.AddIdentityConfiguration();
 
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo 
-                { 
-                    Title = "Api.Identity", 
-                    Description = "This is an API to learn more about web development with .NET",
-                    Contact = new OpenApiContact() { Name = "Ricardo", Email = "ricardo@ricardo.com"},
-                    Version = "v1" 
-                });
-            });
+            services.AddSwaggerConfiguration();
+
+            services.AddDependencyInjectionConfiguration();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,14 +46,15 @@ namespace Api.Identity
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Api.Identity v1"));
             }
+
+            app.UseSwaggerConfiguration();
 
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
+            
+            // Custom NetDevPack abstraction here!
             app.UseAuthConfiguration();
 
             app.UseEndpoints(endpoints =>
