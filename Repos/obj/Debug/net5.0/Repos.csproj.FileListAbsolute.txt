@@ -1,0 +1,12 @@
+C:\Users\santo\source\repos\Templatex\Repos\bin\Debug\net5.0\Repos.deps.json
+C:\Users\santo\source\repos\Templatex\Repos\bin\Debug\net5.0\Repos.dll
+C:\Users\santo\source\repos\Templatex\Repos\bin\Debug\net5.0\ref\Repos.dll
+C:\Users\santo\source\repos\Templatex\Repos\bin\Debug\net5.0\Repos.pdb
+C:\Users\santo\source\repos\Templatex\Repos\obj\Debug\net5.0\Repos.csprojAssemblyReference.cache
+C:\Users\santo\source\repos\Templatex\Repos\obj\Debug\net5.0\Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\repos\Templatex\Repos\obj\Debug\net5.0\Repos.AssemblyInfoInputs.cache
+C:\Users\santo\source\repos\Templatex\Repos\obj\Debug\net5.0\Repos.AssemblyInfo.cs
+C:\Users\santo\source\repos\Templatex\Repos\obj\Debug\net5.0\Repos.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\Templatex\Repos\obj\Debug\net5.0\Repos.dll
+C:\Users\santo\source\repos\Templatex\Repos\obj\Debug\net5.0\ref\Repos.dll
+C:\Users\santo\source\repos\Templatex\Repos\obj\Debug\net5.0\Repos.pdb

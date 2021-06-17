@@ -1,0 +1,12 @@
+C:\Users\santo\source\repos\Templatex\FailFast\bin\Debug\net5.0\FailFast.deps.json
+C:\Users\santo\source\repos\Templatex\FailFast\bin\Debug\net5.0\FailFast.dll
+C:\Users\santo\source\repos\Templatex\FailFast\bin\Debug\net5.0\ref\FailFast.dll
+C:\Users\santo\source\repos\Templatex\FailFast\bin\Debug\net5.0\FailFast.pdb
+C:\Users\santo\source\repos\Templatex\FailFast\obj\Debug\net5.0\FailFast.csprojAssemblyReference.cache
+C:\Users\santo\source\repos\Templatex\FailFast\obj\Debug\net5.0\FailFast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\repos\Templatex\FailFast\obj\Debug\net5.0\FailFast.AssemblyInfoInputs.cache
+C:\Users\santo\source\repos\Templatex\FailFast\obj\Debug\net5.0\FailFast.AssemblyInfo.cs
+C:\Users\santo\source\repos\Templatex\FailFast\obj\Debug\net5.0\FailFast.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\Templatex\FailFast\obj\Debug\net5.0\FailFast.dll
+C:\Users\santo\source\repos\Templatex\FailFast\obj\Debug\net5.0\ref\FailFast.dll
+C:\Users\santo\source\repos\Templatex\FailFast\obj\Debug\net5.0\FailFast.pdb

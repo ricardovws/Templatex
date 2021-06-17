@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/vqbV/8Q+0W1rIZcdKSJe/KMtQKkOLt+3w8gdKHO3MlmoDFwmJgPXZ0XliwXhvm4Ge8dir7gQ/mPqi08WYY1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santo\\source\\repos\\Templatex\\FailFast\\FailFast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
